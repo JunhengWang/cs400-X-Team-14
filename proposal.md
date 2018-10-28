@@ -7,7 +7,6 @@ See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for ti
 Work as a team to create a project proposal for your X-team to complete together.
 The project does not have to be extremely difficult,
 but there must be work to do for each member of your team.
-You may reference figures using "See figure 1".  
 Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) for each figure.
 
 ## Grading: To earn full credit, your team's proposal must include:
@@ -62,7 +61,8 @@ also input quanitites when shipments arrive. When products are sold they will be
 Currently, we plan on developing a simple GUI that will have buttons, input boxes, and drop down menus that will allow 
 the user to interact with the Inventory Management program. The buttons will be for adding inventory when shipments arrive
 and adding a sale to the system (that removes inventory). Buttons for generating inventory reports and viewing order forms
-will also be available.
+will also be available. See figure1:
+![Image of user interface](https://github.com/JunhengWang/cs400-X-Team-14/blob/master/figure1.png)
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 Name each interface or class and briefly describe its function or purpose.
